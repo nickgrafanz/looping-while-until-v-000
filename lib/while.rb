@@ -6,4 +6,3 @@ def using_while
 		break
 	end
 end
-
